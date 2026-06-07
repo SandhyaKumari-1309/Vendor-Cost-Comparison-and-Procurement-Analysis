@@ -1,0 +1,1 @@
+Built an Excel dashboard to analyze retail sales, procurement, and vendor performance. Used Power Query for data transformation and identified key profitability drivers, including discounts, product costs, and pricing strategies, to support data-driven decision-making.
